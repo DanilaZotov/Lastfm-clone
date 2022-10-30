@@ -1,0 +1,22 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+.logo-text-box {
+    padding: 0px;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.clone-logo {
+    padding: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    color: red;
+}
